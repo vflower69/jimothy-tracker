@@ -1,0 +1,1 @@
+ALTER TABLE `sightings` ADD `imageKey` varchar(500);

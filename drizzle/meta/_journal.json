@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1784496738918,
+      "tag": "0000_orange_siren",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1784496888937,
+      "tag": "0001_nasty_mother_askani",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1784497935703,
+      "tag": "0002_strong_veda",
+      "breakpoints": true
+    }
+  ]
+}
